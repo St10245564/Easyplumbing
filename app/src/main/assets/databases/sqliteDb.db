@@ -1,0 +1,2 @@
+CREATE TABLE "OrderDetail"("ID" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE, "ProductId" TEXT, "ProductName" TEXT, "Quantity" TEXT, "Price" TEXT, "Discount" TEXT)
+CREATE TABLE "sqlite_sequence"(name, seq)
